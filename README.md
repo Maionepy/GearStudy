@@ -5,7 +5,11 @@ All credits from the database goes to Amir Hosein Zamanian from Southern Methodi
 We thank the professors of PMR3301 (2020).
 
 Belém, G.
+
 Fanucchi, G.
+
 Kazama, N.
+
 Maione, B.
+
 Morais, R.
